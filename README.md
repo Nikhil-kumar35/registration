@@ -1,3 +1,3 @@
 # registration
 Only use Html
-aurthor-Nikhil Kumar
+Aurthor-Nikhil Kumar
